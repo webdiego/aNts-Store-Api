@@ -5,7 +5,7 @@
     [
       {
         "id": 0,
-        "name": "ants t-shirt OOOOO ",
+        "name": "ants t-shirt ",
         "color": "black",
         "type": "man",
         "img": {
@@ -20,8 +20,8 @@
         "color": "white",
         "type": "man",
         "img": {
-          "front": "/img/Clothes/ants-t-shirt-man-white-front.jpg",
-          "back": "/img/Clothes/ants-t-shirt-man-white-back.jpg"
+          "front": "https://www.gostudy.com.au/wp-content/uploads/2018/09/SYD_header.jpg",
+          "back": "./img/Clothes/ants-t-shirt-man-white-back.jpg"
         },
         "price": 30
       },
