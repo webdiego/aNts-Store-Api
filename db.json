@@ -9,8 +9,8 @@
         "color": "black",
         "type": "man",
         "img": {
-          "front": "https://i.imgur.com/5EZBjQb.jpg",
-          "back": "/img/Clothes/ants-t-shirt-man-black-back.jpg"
+          "front": "https://i.postimg.cc/Vky6F6qd/ants-t-shirt-man-black-front.jpg",
+          "back": "https://i.postimg.cc/bNSrbb27/ants-t-shirt-man-black-back.jpg"
         },
         "price": 30
       },
@@ -20,8 +20,8 @@
         "color": "white",
         "type": "man",
         "img": {
-          "front": "https://www.gostudy.com.au/wp-content/uploads/2018/09/SYD_header.jpg",
-          "back": "./img/Clothes/ants-t-shirt-man-white-back.jpg"
+          "front": "https://i.postimg.cc/9XJgTwjY/ants-t-shirt-man-white-front.jpg",
+          "back": "https://i.postimg.cc/SRTZp3Gv/ants-t-shirt-man-white-back.jpg"
         },
         "price": 30
       },
@@ -31,8 +31,8 @@
         "color": "black",
         "type": "woman",
         "img": {
-          "front": "/img/Clothes/ants-t-shirt-woman-black-front.jpg",
-          "back": "/img/Clothes/ants-t-shirt-woman-black-back.jpg"
+          "front": "https://i.postimg.cc/2SB0PHL0/ants-t-shirt-woman-black-front.jpg",
+          "back": "https://i.postimg.cc/sDx6Jfjd/ants-t-shirt-woman-black-back.jpg"
         },
         "price": 25
       },
@@ -42,8 +42,8 @@
         "color": "orange",
         "type": "woman",
         "img": {
-          "front": "/img/Clothes/ants-t-shirt-woman-orange-front.jpg",
-          "back": "/img/Clothes/ants-t-shirt-woman-orange-back.jpg"
+          "front": "https://i.postimg.cc/N0qdY11B/ants-t-shirt-woman-orange-front.jpg",
+          "back": "https://i.postimg.cc/024tXgj6/ants-t-shirt-woman-orange-back.jpg"
         },
         "price": 45
       }
@@ -53,7 +53,7 @@
         "id": 0,
         "artist": "Robert Hood",
         "trackName": "Never Grow Old (Re-Plant)",
-        "img": "./img/Vinyl/Never-Grow-Old(Re-Plant).jpg",
+        "img": "https://i.postimg.cc/26HM72tr/Never-Grow-Old-Re-Plant.jpg",
         "released": 2014,
         "price": 20,
         "link": "https://soundcloud.com/roberthood/floorplan-never-grow-old-re"
@@ -63,7 +63,7 @@
         "artist": "Frankey & Sandrino",
         "trackName": "Acamar",
         "released": 2015,
-        "img": "./img/Vinyl/Acamar.jpg",
+        "img": "https://i.postimg.cc/0Q5hSLcV/Acamar.jpg",
         "price": 18,
         "link": "https://soundcloud.com/frankey-official/frankey-sandrino-acamar"
       },
@@ -72,7 +72,7 @@
         "artist": "Dj Koze",
         "trackName": "Pick Up",
         "released": 2018,
-        "img": "./img/Vinyl/Pick-Up.jpg",
+        "img": "https://i.postimg.cc/sfNbBHSJ/Pick-Up.jpg",
         "price": 28,
         "link": "https://soundcloud.com/dj-koze-official/pick-up"
       },
@@ -81,7 +81,7 @@
         "artist": "Dense & Pika",
         "trackName": "Colt",
         "released": 2013,
-        "img": "./img/Vinyl/Colt.jpg",
+        "img": "https://i.postimg.cc/sxqLt1yL/Colt.jpg",
         "price": 14,
         "link": "https://soundcloud.com/densepika/colt"
       },
@@ -90,7 +90,7 @@
         "artist": "Henrik Schwarz",
         "trackName": "In Spite Of Everything",
         "released": 2020,
-        "img": "./img/Vinyl/In-Spite-Of-EveryThing.jpg",
+        "img": "https://i.postimg.cc/fyJF2Y4X/In-Spite-Of-Every-Thing.jpg",
         "price": 34,
         "link": "https://soundcloud.com/henrikschwarz/sets/in-spite-of-everything"
       }
@@ -99,7 +99,7 @@
       {
         "id": 0,
         "name":"ants bag",
-        "img": "./img/Gadgets/ants-bag.jpg",
+        "img": "https://i.postimg.cc/QtrdrxNH/ants-bag.jpg",
         "price": 30
         
       },
@@ -113,7 +113,7 @@
       {
         "id": 2,
         "name":"ants bag",
-        "img": "./img/Gadgets/ants-laynard.jpg",
+        "img": "https://i.postimg.cc/XqjNpHCW/ants-laynard.jpg",
         "price": 20
         
       }
