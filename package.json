@@ -1,0 +1,26 @@
+{
+  "name": "ants-json-api",
+  "version": "1.0.0",
+  "description": "ants-store-api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdiego/aNts-Store-Api.git"
+  },
+  "keywords": [
+    "store-api"
+  ],
+  "author": "diego massarini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdiego/aNts-Store-Api/issues"
+  },
+  "homepage": "https://github.com/webdiego/aNts-Store-Api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
