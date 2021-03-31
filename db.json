@@ -1,119 +1,124 @@
 {
-  "clothes": [
-    {
-      "id": 0,
-      "name": "ants t-shirt ",
-      "color": "black",
-      "type": "man",
-      "img": {
-        "front": "/img/Clothes/ants-t-shirt-man-black-front.jpg",
-        "back": "/img/Clothes/ants-t-shirt-man-black-back.jpg"
+  "data":[ 
+
+   { "clothes": 
+    [
+      {
+        "id": 0,
+        "name": "ants t-shirt ",
+        "color": "black",
+        "type": "man",
+        "img": {
+          "front": "/img/Clothes/ants-t-shirt-man-black-front.jpg",
+          "back": "/img/Clothes/ants-t-shirt-man-black-back.jpg"
+        },
+        "price": 30
       },
-      "price": 30
-    },
-    {
-      "id": 1,
-      "name": "ants t-shirt ",
-      "color": "white",
-      "type": "man",
-      "img": {
-        "front": "/img/Clothes/ants-t-shirt-man-white-front.jpg",
-        "back": "/img/Clothes/ants-t-shirt-man-white-back.jpg"
+      {
+        "id": 1,
+        "name": "ants t-shirt ",
+        "color": "white",
+        "type": "man",
+        "img": {
+          "front": "/img/Clothes/ants-t-shirt-man-white-front.jpg",
+          "back": "/img/Clothes/ants-t-shirt-man-white-back.jpg"
+        },
+        "price": 30
       },
-      "price": 30
-    },
-    {
-      "id": 2,
-      "name": "ants t-shirt ",
-      "color": "black",
-      "type": "woman",
-      "img": {
-        "front": "/img/Clothes/ants-t-shirt-woman-black-front.jpg",
-        "back": "/img/Clothes/ants-t-shirt-woman-black-back.jpg"
+      {
+        "id": 2,
+        "name": "ants t-shirt ",
+        "color": "black",
+        "type": "woman",
+        "img": {
+          "front": "/img/Clothes/ants-t-shirt-woman-black-front.jpg",
+          "back": "/img/Clothes/ants-t-shirt-woman-black-back.jpg"
+        },
+        "price": 25
       },
-      "price": 25
-    },
-    {
-      "id": 3,
-      "name": "ants t-shirt ",
-      "color": "orange",
-      "type": "woman",
-      "img": {
-        "front": "/img/Clothes/ants-t-shirt-woman-orange-front.jpg",
-        "back": "/img/Clothes/ants-t-shirt-woman-orange-back.jpg"
+      {
+        "id": 3,
+        "name": "ants t-shirt ",
+        "color": "orange",
+        "type": "woman",
+        "img": {
+          "front": "/img/Clothes/ants-t-shirt-woman-orange-front.jpg",
+          "back": "/img/Clothes/ants-t-shirt-woman-orange-back.jpg"
+        },
+        "price": 45
+      }
+    ]},
+   { "vinyl": [
+      {
+        "id": 0,
+        "artist": "Robert Hood",
+        "trackName": "Never Grow Old (Re-Plant)",
+        "img": "./img/Vinyl/Never-Grow-Old(Re-Plant).jpg",
+        "released": 2014,
+        "price": 20,
+        "link": "https://soundcloud.com/roberthood/floorplan-never-grow-old-re"
       },
-      "price": 45
-    }
-  ],
-  "vinyl": [
-    {
-      "id": 0,
-      "artist": "Robert Hood",
-      "trackName": "Never Grow Old (Re-Plant)",
-      "img": "./img/Vinyl/Never-Grow-Old(Re-Plant).jpg",
-      "released": 2014,
-      "price": 20,
-      "link": "https://soundcloud.com/roberthood/floorplan-never-grow-old-re"
-    },
-    {
-      "id": 1,
-      "artist": "Frankey & Sandrino",
-      "trackName": "Acamar",
-      "released": 2015,
-      "img": "./img/Vinyl/Acamar.jpg",
-      "price": 18,
-      "link": "https://soundcloud.com/frankey-official/frankey-sandrino-acamar"
-    },
-    {
-      "id": 2,
-      "artist": "Dj Koze",
-      "trackName": "Pick Up",
-      "released": 2018,
-      "img": "./img/Vinyl/Pick-Up.jpg",
-      "price": 28,
-      "link": "https://soundcloud.com/dj-koze-official/pick-up"
-    },
-    {
-      "id": 3,
-      "artist": "Dense & Pika",
-      "trackName": "Colt",
-      "released": 2013,
-      "img": "./img/Vinyl/Colt.jpg",
-      "price": 14,
-      "link": "https://soundcloud.com/densepika/colt"
-    },
-    {
-      "id": 4,
-      "artist": "Henrik Schwarz",
-      "trackName": "In Spite Of Everything",
-      "released": 2020,
-      "img": "./img/Vinyl/In-Spite-Of-EveryThing.jpg",
-      "price": 34,
-      "link": "https://soundcloud.com/henrikschwarz/sets/in-spite-of-everything"
-    }
-  ],
-  "gadget":[
-    {
-      "id": 0,
-      "name":"ants bag",
-      "img": "./img/Gadgets/ants-bag.jpg",
-      "price": 30
+      {
+        "id": 1,
+        "artist": "Frankey & Sandrino",
+        "trackName": "Acamar",
+        "released": 2015,
+        "img": "./img/Vinyl/Acamar.jpg",
+        "price": 18,
+        "link": "https://soundcloud.com/frankey-official/frankey-sandrino-acamar"
+      },
+      {
+        "id": 2,
+        "artist": "Dj Koze",
+        "trackName": "Pick Up",
+        "released": 2018,
+        "img": "./img/Vinyl/Pick-Up.jpg",
+        "price": 28,
+        "link": "https://soundcloud.com/dj-koze-official/pick-up"
+      },
+      {
+        "id": 3,
+        "artist": "Dense & Pika",
+        "trackName": "Colt",
+        "released": 2013,
+        "img": "./img/Vinyl/Colt.jpg",
+        "price": 14,
+        "link": "https://soundcloud.com/densepika/colt"
+      },
+      {
+        "id": 4,
+        "artist": "Henrik Schwarz",
+        "trackName": "In Spite Of Everything",
+        "released": 2020,
+        "img": "./img/Vinyl/In-Spite-Of-EveryThing.jpg",
+        "price": 34,
+        "link": "https://soundcloud.com/henrikschwarz/sets/in-spite-of-everything"
+      }
+    ]},
+   { "gadget":[
+      {
+        "id": 0,
+        "name":"ants bag",
+        "img": "./img/Gadgets/ants-bag.jpg",
+        "price": 30
+        
+      },
+      {
+        "id": 1,
+        "name":"ants sticker",
+        "img": "./img/Gadgets/ants-sticker.jpg",
+        "price": 10
+        
+      },
+      {
+        "id": 2,
+        "name":"ants bag",
+        "img": "./img/Gadgets/ants-laynard.jpg",
+        "price": 20
+        
+      }
       
-    },
-    {
-      "id": 1,
-      "name":"ants sticker",
-      "img": "./img/Gadgets/ants-sticker.jpg",
-      "price": 10
-      
-    },
-    {
-      "id": 2,
-      "name":"ants bag",
-      "img": "./img/Gadgets/ants-laynard.jpg",
-      "price": 20
-      
-    }
-    
+    ]}
+  
   ]
 }
